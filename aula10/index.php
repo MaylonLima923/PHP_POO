@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Herança em PHP - Parte 1</title>
 </head>
 <body>
     <pre>
