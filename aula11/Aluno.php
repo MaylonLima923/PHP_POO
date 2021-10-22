@@ -12,6 +12,8 @@
         }
 
         // Métodos Especiais
+        public function __construct() {}
+
         protected function getMatricula() {
             return $this->matricula;
         }

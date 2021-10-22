@@ -15,6 +15,8 @@
         } 
 
         // Métodos Especiais
+        public function __construct() {}
+        
         protected function getBolsa() {
             return $this->bolsa;
         }

@@ -11,6 +11,8 @@
         }
 
         // Métodos Especiais
+        public function __construct() {}
+
         protected function getNome() {
             return $this->nome;
         }
