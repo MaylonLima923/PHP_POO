@@ -12,8 +12,8 @@
         require_once 'Gafanhoto.php';
 
         $videos[0] = new Video("Aula 1");
-        $videos[2] = new Video("Aula 2");
-        $videos[3] = new Video("Aula 3");
+        $videos[1] = new Video("Aula 2");
+        $videos[2] = new Video("Aula 3");
 
         $pessoa[0] = new Gafanhoto("Roberto", 22, "M", "Robertin");
         $pessoa[1] = new Gafanhoto("Claudia", 14, "F", "Claudia_002");
